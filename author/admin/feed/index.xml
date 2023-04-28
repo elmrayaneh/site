@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; علم رایانه</title>
+	<atom:link href="https://elmrayaneh.ir/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://elmrayaneh.ir</link>
+	<description></description>
+	<lastBuildDate>Fri, 28 Apr 2023 15:46:55 +0000</lastBuildDate>
+	<language>fa-IR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://elmrayaneh.ir/wp-content/uploads/2023/01/cropped-elmrayaneh-logo-32x32.png</url>
+	<title>admin &#8211; علم رایانه</title>
+	<link>https://elmrayaneh.ir</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>وردپرس چیست؟</title>
+		<link>https://elmrayaneh.ir/%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3-%da%86%db%8c%d8%b3%d8%aa/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 23 Apr 2023 15:16:11 +0000</pubDate>
+				<category><![CDATA[وردپرس]]></category>
+		<guid isPermaLink="false">https://elmrayaneh.ir/?p=667</guid>
+
+					<description><![CDATA[وردپرس یکی از قدرتمندترین سیستم‌های مدیریت محتوا (Content Management System) برای ساخت و مدیریت وبسایت‌ها و وبلاگ‌ها است. این سیستم با داشتن یک اکوسیستم بزرگی از پلاگین‌ها و قالب‌ها، قابلیت گسترش و سفارشی‌سازی بالایی دارد و به همین دلیل، یکی از محبوب‌ترین سیستم‌های مدیریت محتوای وب در دنیاست. در این مقاله، به معرفی وردپرس، نحوه ... <a title="وردپرس چیست؟" class="read-more" href="https://elmrayaneh.ir/%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3-%da%86%db%8c%d8%b3%d8%aa/" aria-label="بیشتر از وردپرس چیست؟">ادامه</a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="667" class="elementor elementor-667">
+							<div class="elementor-element elementor-element-c6a3855 e-con-boxed e-con" data-id="c6a3855" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c185154 elementor-widget elementor-widget-text-editor" data-id="c185154" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.12.2 - 23-04-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:right;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>وردپرس یکی از قدرتمندترین سیستم‌های مدیریت محتوا (Content Management System) برای ساخت و مدیریت وبسایت‌ها و وبلاگ‌ها است. این سیستم با داشتن یک اکوسیستم بزرگی از پلاگین‌ها و قالب‌ها، قابلیت گسترش و سفارشی‌سازی بالایی دارد و به همین دلیل، یکی از محبوب‌ترین سیستم‌های مدیریت محتوای وب در دنیاست.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>در این مقاله، به معرفی وردپرس، نحوه کارکرد آن، ویژگی‌های آن و همچنین روش‌های بهینه‌سازی سئو برای وبسایت‌های ساخته شده با وردپرس و نسخه‌های مختلف وردپرس و استفاده از آن‌ها نیز خواهیم پرداخت.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-9e4173c elementor-widget elementor-widget-heading" data-id="9e4173c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.12.2 - 23-04-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-large">معرفی وردپرس</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-038836b elementor-widget elementor-widget-text-editor" data-id="038836b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>وردپرس در سال 2003 توسط متیو مولنویگ (Matt Mullenweg) و مایکل بلوگ (Mike Little) توسعه داده شد و از آن زمان به بعد، به یکی از پرکاربردترین و محبوب‌ترین CMSها در دنیا تبدیل شده است. برای استفاده از وردپرس، کاربران نیاز به نصب آن بر روی یک سرور وب دارند. همچنین، وردپرس به دو نسخه اصلی تقسیم می‌شود: wordpress.com و wordpress.org.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>wordpress.com: این نسخه از وردپرس یک سرویس آنلاین است که کاربران می‌توانند به صورت رایگان وبسایت‌های خود را بسازند. در این نسخه، کاربران نیازی به نصب و پشتیبانی از سرور خود ندارند و به راحتی می‌توانند وبسایت خود را با استفاده از ویژگی‌های ساده و قالب‌های پیشفرض وردپرس بسازند.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>wordpress.org: این نسخه از وردپرس یک نسخه نصبی است که کاربران می‌توانند آن را بر روی سرور خود نصب کنند و کنترل کاملی بر وبسایت خود داشته باشند. در این نسخه، کاربران می‌توانند از قالب‌ها و پلاگین‌های سفارشی‌شده برای ساخت وبسایت خود استفاده کنند و به راحتی می‌توانند تغییرات دلخواه خود را اعمال کنند.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-a2e02eb elementor-widget elementor-widget-heading" data-id="a2e02eb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">نحوه کارکرد وردپرس</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-78fffbb elementor-widget elementor-widget-text-editor" data-id="78fffbb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>وردپرس با استفاده از زبان PHP به همراه پایگاه داده MySQL یا MariaDB کار می‌کند. در این سیستم، محتوا به صورت پست‌ها و برگه‌ها ذخیره می‌شود. هر پست در وردپرس می‌تواند شامل متن، تصویر و ویدئو باشد و همچنین، می‌توان از برچسب‌ها و دسته‌بندی‌ها برای سازماندهی بهتر محتوا استفاده کرد.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>وردپرس با داشتن یک اکوسیستم بزرگی از پلاگین‌ها و قالب‌ها، به کاربران امکان می‌دهد تا به راحتی از این قابلیت‌ها برای بهبود عملکرد وبسایت خود استفاده کنند. همچنین، وردپرس با داشتن یک پنل مدیریتی کاربرپسند، به کاربران اجازه می‌دهد تا به راحتی محتوای وبسایت خود را مدیریت کنند.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-02e1498 elementor-widget elementor-widget-heading" data-id="02e1498" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">ویژگی‌های وردپرس</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-dfd08e2 elementor-widget elementor-widget-text-editor" data-id="dfd08e2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>وردپرس یکی از قدرتمندترین CMSهای موجود در دنیاست و دارای ویژگی‌های بسیاری است که به کاربران اجازه می‌دهد به راحتی وبسایت خود را مدیریت کنند. برخی از ویژگی‌های وردپرس عبارتند از:</p>
+<p><!-- /wp:paragraph --><!-- wp:list {"ordered":true,"type":"1","start":1} --></p>
+<ol start="1" type="1"><!-- wp:list-item -->
+<li>سبک و سرعت بالا: وردپرس با داشتن کدهای بهینه و سبک، قابلیت بارگذاری سریع وبسایت را دارد.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>گسترش پذیری: این CMS با داشتن یک اکوسیستم بزرگی از پلاگین‌ها و قالب‌ها، به کاربران اجازه می‌دهد تا به راحتی وبسایت خود را گسترش دهند و از ویژگی‌های جدید استفاده کنند.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>قابلیت سفارشی‌سازی: وردپرس با داشتن قالب‌های سفارشی‌سازی شده، به کاربران اجازه می‌دهد تا به راحتی ظاهر وبسایت خود را به دلخواه خود تغییر دهند.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>بهینه سازی برای موتورهای جستجو: وردپرس امکانات بسیاری برای بهینه‌سازی وبسایت‌ها برای موتورهای جستجو دارد که به کاربران این امکان را می‌دهد تا وبسایت‌های خود را به بهترین شکل برای موتورهای جستجو بهینه کنند.</li>
+</ol>						</div>
+				</div>
+				<div class="elementor-element elementor-element-d7a33c1 elementor-widget elementor-widget-heading" data-id="d7a33c1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">پیشرفت و توسعه وردپرس</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5e815b7 elementor-widget elementor-widget-text-editor" data-id="5e815b7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>وردپرس از زمان توسعه اولیه‌اش تاکنون، به شکل چشمگیری توسعه یافته است. در سال‌های ابتدایی، وردپرس فقط یک سیستم مدیریت محتوا بود که برای ساخت وبلاگ‌ها استفاده می‌شد. اما با گذر زمان، وردپرس به یک CMS قدرتمند تبدیل شد که برای ساخت انواع وبسایت‌ها، از جمله سایت‌های فروشگاهی، سایت‌های خبری و پورتال‌های تفریحی استفاده می‌شود.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>در حال حاضر، وردپرس به عنوان یکی از محبوب‌ترین CMSها در دنیا شناخته می‌شود و بیش از 40٪ از سایت‌های اینترنت از وردپرس برای ساخت وبسایت خود استفاده می‌کنند. این نرم‌افزار رایگان و قابل استفاده برای همه کاربران است و دارای امکانات فراوانی است که به کاربران این امکان را می‌دهد تا وبسایت‌هایی با قابلیت‌های حرفه‌ای و زیبا بسازند.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-d37ad79 elementor-widget elementor-widget-heading" data-id="d37ad79" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-medium">از جمله امکانات وردپرس می‌توان به موارد زیر اشاره کرد:</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-60246c9 elementor-widget elementor-widget-text-editor" data-id="60246c9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>قابلیت نصب و استفاده آسان: وردپرس برای همه کاربران قابل استفاده است و می‌توان آن را به راحتی نصب کرد و با استفاده از آن، وبسایت‌هایی با قابلیت‌های حرفه‌ای بسازید.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>طراحی ریسپانسیو: وردپرس امکان طراحی ریسپانسیو را دارد که به معنی این است که وبسایت‌هایی که با استفاده از وردپرس ساخته می‌شوند، بر روی تمامی دستگاه‌های موبایل، تبلت و کامپیوتر به درستی نمایش داده می‌شوند.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>قابلیت استفاده از قالب‌های آماده: وردپرس دارای قابلیت استفاده از قالب‌های آماده است که به کاربران این امکان را می‌دهد تا وبسایت‌هایی با طرح‌های زیبا و حرفه‌ای بسازند.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>قابلیت پیکربندی بسیار بالا: وردپرس امکانات بسیاری برای پیکربندی وبسایت‌ها را دارد که به کاربران این امکان را می‌دهد تا وبسایت‌هایی با قابلیت‌های حرفه‌ای بسازند.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>قابلیت استفاده از افزونه‌های مختلف: وردپرس به کاربران این امکان را می‌دهد تا با استفاده از افزونه‌های مختلف، وبسایت‌هایی با قابلیت‌های ویژه بسازند.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>امنیت بالا: وردپرس دارای امنیت بالایی است که به کاربران این اطمینان را می‌دهد که وبسایت‌های آن‌ها از نظر امنیتی در حالت بالایی قرار دارند.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>پشتیبانی و جامعیت خوب: وردپرس دارای جامعیت و پشتیبانی خوبی است که به کاربران این اطمینان را می‌دهد که در صورت بروز مشکلات، می‌توانند به راحتی به پشتیبانی وردپرس مراجعه کنند.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>در کل، وردپرس به عنوان یک CMS قدرتمند و پرکاربرد، به کاربران این امکان را می‌دهد تا وبسایت‌هایی با قابلیت‌های ویژه و حرفه‌ای بسازند. با توجه به اینکه وردپرس به صورت رایگان در دسترس است، می‌توان آن را به عنوان یکی از بهترین ابزارهای ساخت وبسایت معرفی کرد.</p>						</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
