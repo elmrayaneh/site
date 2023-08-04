@@ -1,91 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://elmrayaneh.ir/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://birlikh.ir/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://elmrayaneh.ir/%d8%a8%d9%84%d8%a7%da%af/</loc>
-		<lastmod>2023-04-28T21:44:42+00:00</lastmod>
+		<loc>https://birlikh.ir/%d8%a8%d9%84%d8%a7%da%af/</loc>
+		<lastmod>2023-07-06T13:31:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://elmrayaneh.ir/</loc>
-		<lastmod>2023-07-14T02:46:29+00:00</lastmod>
+		<loc>https://birlikh.ir/</loc>
+		<lastmod>2023-08-03T11:42:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2023/01/game-dev-learning.jpg</image:loc>
+			<image:loc>https://birlikh.ir/wp-content/uploads/2023/06/tezol-game-logo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2023/01/3d-design-learning.jpg</image:loc>
+			<image:loc>https://birlikh.ir/wp-content/uploads/2023/06/birlikh-game-logo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2023/01/web-design-learning.jpg</image:loc>
+			<image:loc>https://birlikh.ir/wp-content/uploads/2023/06/wordpress-logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/br2.png</image:loc>
+			<image:loc>https://birlikh.ir/wp-content/uploads/2023/06/180px-Laravel.svg.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/amlak3-176x300.jpg</image:loc>
+			<image:loc>https://birlikh.ir/wp-content/uploads/2023/06/unity-logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2023/07/fastfood-site-main2.jpg</image:loc>
+			<image:loc>https://birlikh.ir/wp-content/uploads/2023/06/blender-logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/heshop-105x300.jpg</image:loc>
+			<image:loc>https://birlikh.ir/wp-content/uploads/2023/06/photoshop-logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/stone-site-147x300.png</image:loc>
+			<image:loc>https://birlikh.ir/wp-content/uploads/2023/06/ur-lexus-police.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2023/07/picturemessage_aqd0zrn1.0er.png</image:loc>
+			<image:loc>https://birlikh.ir/wp-content/uploads/2023/06/birlikh-render2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/itmarket-1-112x300.jpg</image:loc>
+			<image:loc>https://birlikh.ir/wp-content/uploads/2023/06/lamboghini-reventon.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/hm-video-54x300.png</image:loc>
+			<image:loc>https://birlikh.ir/wp-content/uploads/2023/06/patrole-cycles01.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/cat-hm-250x300.png</image:loc>
+			<image:loc>https://birlikh.ir/wp-content/uploads/2023/06/patrole-cycles03.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/shop-za-74x300.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://elmrayaneh.ir/en/blog/</loc>
-		<lastmod>2023-04-28T21:47:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://elmrayaneh.ir/en/home/</loc>
-		<lastmod>2023-04-25T20:12:13+00:00</lastmod>
-		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2023/01/game-dev-learning.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2023/01/3d-design-learning.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2023/01/web-design-learning.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/itmarket-1-112x300.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/amlak3-176x300.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/heshop-105x300.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/shop-za-74x300.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/stone-site-147x300.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/hm-video-54x300.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/cat-hm-250x300.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://elmrayaneh.ir/wp-content/uploads/2022/10/br2.png</image:loc>
+			<image:loc>https://birlikh.ir/wp-content/uploads/2023/06/3patrole-cycles.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
